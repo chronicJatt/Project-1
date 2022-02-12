@@ -1,0 +1,31 @@
+Earthquake,State,Magnitude,Latitude,Longitude,Day,Month,Year,Time,Dates
+"The 1906 San Francisco Earthquake, 1906",,7.9,37.75,-122.55,18,04,1906,13:12:26,1906-04-18
+"3 km SW of Winters, 1904", California,4.5,38.5,-122.0,30,07,1904,10:26:00,1904-07-30
+"3 km ENE of Seven Trees, 1903", California,5.8,37.3,-121.8,03,08,1903,06:49:00,1903-08-03
+"3 km S of Milpitas, 1903", California,5.8,37.4,-121.9,11,06,1903,13:12:00,1903-06-11
+"5 km S of Elmira, 1902", California,5.4,38.3,-121.9,19,05,1902,18:31:00,1902-05-19
+"4 km ENE of Aromas, 1900", California,4.5,36.9,-121.6,30,04,1900,22:41:14,1900-04-30
+"Near Hollister, 1899", California,5.8,36.9,-121.4,06,07,1899,20:10:00,1899-07-06
+"Near San Francisco, 1899", California,5.6,37.7,-122.5,02,06,1899,07:19:00,1899-06-02
+"Near San Juan Bautista, 1899", California,6.0,36.85,-121.6,30,04,1899,22:41:00,1899-04-30
+"South of Sonoma, 1898", California,6.4,38.2,-122.5,31,03,1898,07:43:00,1898-03-31
+"Near Gilroy, 1897", California,6.3,37.0,-121.5,20,06,1897,20:14:00,1897-06-20
+"Near Santa Rosa, 1893", California,5.6,38.4,-122.7,09,08,1893,09:15:00,1893-08-09
+"San Pablo Bay, 1893", California,4.6,38.0,-122.4,30,06,1893,13:30:00,1893-06-30
+"Near Dixon, 1892", California,5.6,38.4,-121.8,30,04,1892,00:09:00,1892-04-30
+"Near Winters, 1892", California,6.4,38.5,-121.9,21,04,1892,17:43:00,1892-04-21
+"Near Vacaville, 1892", California,6.6,38.4,-122.0,19,04,1892,10:50:00,1892-04-19
+"Near Napa, 1891", California,5.8,38.3,-122.4,12,10,1891,06:28:00,1891-10-12
+"Near San Jose, 1891", California,5.8,37.3,-121.8,02,01,1891,20:00:00,1891-01-02
+"East of Watsonville, 1890", California,6.3,36.9,-121.6,24,04,1890,11:36:00,1890-04-24
+"San Francisco Bay area, 1889", California,5.6,37.8,-122.2,31,07,1889,12:47:00,1889-07-31
+"North of Antioch, 1889", California,6.0,38.1,-121.8,19,05,1889,11:10:00,1889-05-19
+"East of Gilroy, 1889", California,5.5,36.95,-121.4,15,04,1889,03:28:00,1889-04-15
+"San Francisco Bay area, 1888", California,4.3,37.9,-122.3,18,11,1888,22:28:00,1888-11-18
+"Santa Cruz Mountains, 1888", California,4.5,37.1,-121.8,17,09,1888,11:51:00,1888-09-17
+"North of Petaluma, 1888", California,4.2,38.3,-122.7,29,02,1888,22:50:00,1888-02-29
+"West of Santa Cruz, 1884", California,5.9,37.0,-122.25,26,03,1884,00:40:00,1884-03-26
+"Near Hollister, 1883", California,6.0,36.8,-121.5,30,03,1883,15:45:00,1883-03-30
+"Santa Cruz Mountains, 1882", California,5.8,37.1,-121.9,27,06,1882,13:22:00,1882-06-27
+"Southwest of Modesto, 1881", California,6.3,37.3,-121.3,10,04,1881,10:00:00,1881-04-10
+"West of Sebastopol, 1876", California,4.2,38.4,-122.9,29,05,1876,18:55:00,1876-05-29
